@@ -3,4 +3,4 @@
 - CSS 3
 - JQuery
 - JS
-You can check [my portfolio](https://ceppel.github.io/Portfolio-for-photographer/).
+- You can check [my portfolio](https://ceppel.github.io/Portfolio-for-photographer/).
