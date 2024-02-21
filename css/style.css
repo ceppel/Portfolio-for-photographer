@@ -360,6 +360,36 @@ ul, li {
 
 /*Конец Главной страницы*/
 
+/*Начало 0-ой секции*/
+.advantages{
+  background-color:#2C2C2C;
+  padding-bottom: 40px;
+}
+
+.advantages__cards{
+  display: flex;
+  flex-direction: row;
+  background-color:#2C2C2C;
+}
+
+.advantages__card{
+  width: 410px;
+}
+
+.advantages__card + .advantages__card{
+  padding-left: 5px;
+}
+
+.advantages__up{
+  padding-top: 10px;
+}
+
+.advantages__h2{
+  padding-top: 20px;
+  text-align: center;
+}
+/*Начало 0-ой секции*/
+
 /*Начало 1-ой секции*/
 
 .portfolio{
