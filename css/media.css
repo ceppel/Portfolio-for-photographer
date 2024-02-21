@@ -167,6 +167,10 @@
     .center-about-me {
         margin-bottom: 302px;
     }
+    .advantages__up,
+    .advantages__h2{
+        font-size: 28px;
+    }
 }
 
 
@@ -333,6 +337,14 @@
     .header__about-title{
         text-align: right;
     }
+    .advantages__up,
+    .advantages__h2{
+        font-size: 22px;
+    }
+
+    .advantages__up{
+        padding-top: 15px;
+    }
 
 }
 
@@ -442,6 +454,11 @@
     .contacts__subtitle{
         font-size: 46px;
         line-height: 59px;
+    }
+    .advantages__up,
+    .advantages__h2{
+        text-align: center;
+        line-height: normal;
     }
 }
 
@@ -685,5 +702,10 @@
 
     .telegram::before {
         left: 57px;
+    }
+
+    .advantages__up,
+    .advantages__h2{
+       font-size: 18px;
     }
 }
